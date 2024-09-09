@@ -25,8 +25,8 @@
 
 - Ensure that the fleet item fits on the axis of the OCEAN GRID in the selected co-ordinate
 - Players then take it in turns to pick a single square co-ordinate on the TARGET GRID. The target GRID represents the oppositions OCEAN GRID, so if they pick a co-ordinate with the oppositions FLEET on it, they are awarded a HIT!
-- A HIT means the opposition loses that SHIP from their fleet
-- The winner is the one who HITS all of the opponents FLEET, sinking all of their FLEET
+- To sink a SHIP you must HIT that item in each of its holes on the grid
+- The winner is the one who sings all of the opponents FLEET, sinking all of their FLEET
 
 ## Core Activity
 
