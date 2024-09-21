@@ -13,7 +13,7 @@ namespace exercise.wwwapi.Controller.Endpoints
             battleShipGroup.MapPost("/newgame", CreateGame);
             battleShipGroup.MapGet("/game/{gameId}", GetGame);
             battleShipGroup.MapPost("/placefleet/{gameId}", PlaceFleet);
-            battleShipGroup.MapPost("/move/{gameId}", MakeMove);
+            battleShipGroup.MapPost("/fire/{gameId}", MakeMove);
             battleShipGroup.MapPost("/reset/{gameId}", ResetGame);
         }
 
